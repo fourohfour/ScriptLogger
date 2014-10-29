@@ -5,7 +5,7 @@ setup(
     version = "1.0",
     author = "FourOhFour",
     author_email = "404.fourohfour@gmail.com",
-    url = "https://github.com/fourohfour/Logger",
+    url = "https://github.com/fourohfour/ScriptLogger",
     description = "A simple tool that helps with logging info during the process of running a script.",
     py_modules = ['logger'],
     classifiers = ["Development Status :: 4 - Beta",
