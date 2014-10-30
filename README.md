@@ -3,6 +3,9 @@ ScriptLogger
 
 ScriptLogger - Logging for python scripts
 
+Install with pip: `pip install scriptlogger`
+Install with exe: https://pypi.python.org/pypi/ScriptLogger/1.0.3
+
 NB: This is a continuation of my old Logger Repo, which long story short I screwed up.
 
 
